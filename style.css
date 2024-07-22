@@ -9,3 +9,6 @@ p { color: blue; }
 background: linear-gradient(to  bottom , #FF88FF ,#FF8C00 );
 color: white;
 }
+.title {
+border: solid 1px black;
+}
